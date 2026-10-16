@@ -1,7 +1,5 @@
 # Ignore everything
 *
-!*/
-
 
 # Only allow a few
 !/.gitignore
@@ -10,3 +8,6 @@
 !/DCMotorSpeedController.kicad_prl
 !/DCMotorSpeedController.kicad_pro
 !/DCMotorSpeedController.kicad_sch
+!/DCMotorSpeedController.net
+!/DCMotorSpeedController.pdf
+!/images/
