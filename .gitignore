@@ -1,0 +1,12 @@
+# Ignore everything
+*
+!*/
+
+
+# Only allow a few
+!/.gitignore
+!/README.md
+!/DCMotorSpeedController.kicad_pcb
+!/DCMotorSpeedController.kicad_prl
+!/DCMotorSpeedController.kicad_pro
+!/DCMotorSpeedController.kicad_sch
