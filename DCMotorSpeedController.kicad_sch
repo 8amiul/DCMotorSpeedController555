@@ -3791,7 +3791,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4007")
-		(at 179.07 74.93 90)
+		(at 179.07 74.93 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3809,7 +3809,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "1N4007"
@@ -3820,11 +3820,11 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
-			(at 183.515 74.93 0)
+			(at 174.625 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
